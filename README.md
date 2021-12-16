@@ -30,5 +30,9 @@ After importing the data, we clean it up by doing the following:
 * Removed rows with null values
 
 After cleaning the data, we made the following changes:
-* 
+* Make 2 groups in marital-status column single ,and married 
+* Make 4 group in education column vocational, undergraduate, postgraduate, school graduate
+* Make 3 group in occupation-level column high level, mid level, low level
+* Make 5 group in age column Young, Young Adult, Adult, Elder, Unspecified 
+* Replace (-) with ( ) in columns Relationship, Native Country, Workclass, Occupation
 
